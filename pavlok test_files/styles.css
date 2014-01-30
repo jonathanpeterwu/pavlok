@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document */
+*{box-sizing:border-box; -ms-box-sizing:border-box; -moz-box-sizing:border-box; -webkit-box-sizing:border-box;}
+html, body {margin:0; padding:0; width:100%; height:100%; background:url(http://i.minus.com/iS2dj6elWJO7m.png) center top no-repeat;}
+.white {color:#fff;}
+.blue {color:#26a3ea;}
+.grey {color:#3b404f;}
+
+@font-face {
+    font-family: 'harabararegular';
+    src: url('../fonts/harabara-webfont.eot');
+    src: url('../fonts/harabara-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/harabara-webfont.woff') format('woff'),
+         url('../fonts/harabara-webfont.ttf') format('truetype'),
+         url('../fonts/harabara-webfont.svg#harabararegular') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'proxima_nova_rgbold';
+    src: url('../fonts/proximanova-bold-webfont.eot');
+    src: url('../fonts/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/proximanova-bold-webfont.woff') format('woff'),
+         url('../fonts/proximanova-bold-webfont.ttf') format('truetype'),
+         url('../fonts/proximanova-bold-webfont.svg#proxima_nova_rgbold') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+
+@font-face {
+    font-family: 'proxima_nova_rgregular';
+    src: url('../fonts/proximanova-regular-webfont.eot');
+    src: url('../fonts/proximanova-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/proximanova-regular-webfont.woff') format('woff'),
+         url('../fonts/proximanova-regular-webfont.ttf') format('truetype'),
+         url('../fonts/proximanova-regular-webfont.svg#proxima_nova_rgregular') format('svg');
+    font-weight: normal;
+    font-style: normal;}
+	
+#container {width:960px; height:auto; position:relative; text-align:center;	margin:0 auto; padding:0;}
+#header {width:960px; height:600px; padding-top:80px;}
+#pavlok {width:360px; height:150px; margin-left:50px; }
+#pavlok h2, #pavlok p {text-align:right; color:#fff;}
+#pavlok h2 {font:126px 'harabararegular', Arial, Helvetica, sans-serif; margin:0 0 -18px 0;}
+#pavlok p {font:16px 'proxima_nova_rgregular', Arial, Helvetica, sans-serif; margin:0;}
+
+#scroll {width:140px; height:200px; margin:145px 0 0 120px; }
+#scroll p {font:20px 'proxima_nova_rgregular', Arial, Helvetica, sans-serif; color:#fff;}
+
+#device {width:960px; height:310px;}
+p.title {font:45px 'proxima_nova_rgbold', Arial, Helvetica, sans-serif; color:#ffcd46; margin:0; padding-top:40px;} 
+#device img {margin-top:25px; }
+p.text {font:17px/32px 'proxima_nova_rgregular', Arial, Helvetica, sans-serif; color:#3b404f;}
+
+
+#subscribe {width:960px; height:358px; background:url(http://i.imgur.com/B06TslK.jpg) no-repeat;}
+#subscribe p {color:#fff; margin:0;}
+p.stay {font:50px 'harabararegular', Arial, Helvetica, sans-serif; padding-top:50px;}
+p.news {font:19px 'proxima_nova_rgregular', Arial, Helvetica, sans-serif; }
+
+#footer {width:960px; height:100px; }
+#footer p {color:#3b404f; margin:0;}
+p.flogo {font:28px 'harabararegular', Arial, Helvetica, sans-serif; padding:25px 0 5px 0;}
+p.ftext {font:13px 'proxima_nova_rgregular', Arial, Helvetica, sans-serif; }
+
+.af-form-wrapper {width:640px; height:120px; margin:40px auto 0 auto;}
+.af-element {float:left; margin-right:4px;}
+.af-element input{width:310px; height:50px; padding-left:15px; font:18px 'proxima_nova_rgregular', Arial, Helvetica, sans-serif; color:#26a3ea;  border:none; border-radius:5px; }
+.af-element.buttonContainer {margin-top:6px;}
+.af-element.buttonContainer input {width:625px; font:20px 'proxima_nova_rgbold', Arial, Helvetica, sans-serif; color:#fff; background:#3b404f;cursor:pointer;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

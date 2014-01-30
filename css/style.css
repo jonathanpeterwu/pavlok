@@ -1,0 +1,220 @@
+
+body { background-color: white; }
+
+#dark {
+  border-style: none;
+  height: 1px;
+  display: block;
+  position: relative;
+  border: none;
+  padding: 0;
+  margin-bottom: 2em;
+  background-color: #149aa5;
+}
+
+/*=====================Device Text=========================*/
+#device {text-align: center; width:960px; height:358px;}
+p.title {text-align: center; font:45px 'proxima_nova_rgbold', Arial, Helvetica, sans-serif; color:#ffcd46; margin:0; padding-top:40px;} 
+#device img {margin-top:25px; }
+p.text {text-align: center; font:17px/32px 'proxima_nova_rgregular', Arial, Helvetica, sans-serif; color:#3b404f;}
+
+/*=====================Email List =========================*/
+#subscribe {text-align: center; width:960px; height:358px; background-color: #ffcd48; margin-left: auto; margin-right: auto;  }
+#subscribe p {color:#fff; margin:0;}
+p.stay {font:50px 'harabararegular', Arial, Helvetica, sans-serif; padding-top:50px;}
+p.news {font:19px 'proxima_nova_rgregular', Arial, Helvetica, sans-serif; }
+
+
+#jumbotron {text-align: center; width:960px; height:358px;}
+p.title {font:80px 'proxima_nova_rgbold', Arial, Helvetica, sans-serif; color:#ffcd46; margin:0; padding-top:40px; }
+
+
+/*=====================Email Signup Counter =========================*/
+.counter {
+  font-family: "Klavika", "Helvetica", "Arial", sans-serif;
+  display: inline-block;
+  margin-left: 0.3em;
+  border: solid 2px #ffcd47;
+  border-radius: 10px;
+  color: #ffcd47;
+  line-height: 1.3em; }
+  .counter span {
+    display: inline-block;
+    width: 1.1em;
+    padding-top: 0.1em;
+    border-left: solid 2px #ffcd47;
+    text-align: center; }
+    .counter span:first-child {
+      border-left: none; }
+
+#counter {
+  padding: 10px 10px 10px 10px;
+  text-align: center
+}
+
+p.loud {
+  font-size: 3.0em;
+  color: ;
+}
+
+/*=====================Preorder  =========================*/
+
+#buy-pavlok {
+
+}
+
+#buy-pavlok-subtitle {
+
+}
+
+.buy-pavlok-header {
+  color: #ffcd47;
+}
+
+#shipping {
+
+}
+
+#pavlok-img {
+}
+
+.preorderpage {
+  background-color: #EFEFF0;
+}
+
+/*=====================End  =========================*/
+#bracelet_colors {
+}
+
+#signup {
+  background-color: #5cb85c;
+  border: #5cb85c;
+  width: 180px;
+  height: 60px;
+}
+
+#confirm {
+  background-color: #5cb85c;
+  border: #5cb85c;
+  width: 400px;
+  height: 70px;
+  padding-top: 5px;
+  margin-top: 5px;
+}
+
+#alignright {
+  text-align:right;
+  margin-right: 0px;
+  padding-right: 0px;
+}
+
+#alignleft {
+  text-align:left;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.enteremail {
+  text-align: center;
+  background: #ffcd47;
+  width: 200px;
+  height: 60px;
+  padding-right: 5px;
+  margin-right: 5px;
+  border:0;
+}
+.email {
+  text-align: center;
+  background: white;
+  width: 200px;
+  height: 60px;
+  padding: 0;
+  border: 0;
+}
+
+.name {
+  text-align: center;
+  background: white;
+  width: 200px;
+  height: 60px;
+  padding: 0; 
+  border: 0;
+}
+/*=====================Footer =========================*/
+
+#footer-pavlok {
+  background: none;
+  list-style: none;
+}
+
+.footer-wristband {
+
+}
+
+.footer-aboutus {
+
+}
+
+.footer-press {
+
+}
+
+.footer-store {
+
+}
+/*=====================Email List =========================*/
+
+
+.text-muted {
+  color: #ffcd47;
+}
+
+#nametags {
+  background-color: #ffcd47;
+  text-align: center;
+}
+
+#headline {
+  color: black;
+}
+
+#picture {
+  background-color: grey;
+}
+
+#names {
+  color: grey;
+  text-align: center;
+}
+
+#description {
+  text-align: center;
+  color: #ffcd47;
+}
+
+
+
+#welcome {
+  color: #ffcd47;
+}
+#experts {
+  color: #ffcd47;
+}
+#home {
+  background-color: black;
+  border-color: black;
+}
+#preordersmall{
+  color: white;
+  background-color: #ffcd47;
+  border-color: #ffcd47;
+}
+
+#preorder{
+  color: white;
+  background-color: #ffcd47;
+  border-color: #ffcd47;
+  width: 300px;
+  height: 50px;
+}
+
+
